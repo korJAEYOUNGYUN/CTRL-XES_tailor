@@ -1,0 +1,6 @@
+*.xes
+.idea
+.settings
+bin
+out
+CTRL-java-XESTailor.iml
