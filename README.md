@@ -2,6 +2,8 @@
 
 Tailoring [XES-based event logs](http://www.xes-standard.org/) with command-line based operations. Operations are designed based on relational algebra.
 
+doi: 10.7472/jksii.2019.20.6.21
+
 **Operations:**
 
 - Select - parses the specific data from the event log.
